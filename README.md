@@ -41,9 +41,12 @@ This command will install all the dependencies listed in the `requirements.txt` 
 
 7. After installing the requirements, open the code files in a text editor and locate the place where the Bard API key needs to be filled. Replace `YOUR_BARD_API_KEY` with your actual Bard API key.
 
-8. Save the changes to the code files.
+8. you can also this youtube video for the api
+   https://youtu.be/kT8Q7aIlgy0
 
-9. You can now run the code using the following command:
+10. Save the changes to the code files.
+
+11. You can now run the code using the following command:
    ```
    python your_code_file.py
    ```
