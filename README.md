@@ -1,4 +1,4 @@
-# Asur 
+# Asur v1.0.1 
 The above code is designed to process speech input, extract movie keywords, and open corresponding Google Drive search links for each keyword. It utilizes various libraries and APIs to achieve this functionality.
 
 Here's a short description of the code:
@@ -14,3 +14,13 @@ Here's a short description of the code:
 9. The code includes error handling and waits for a certain amount of time before exiting.
 
 Overall, this code combines speech recognition, natural language processing, web scraping, and text-to-speech conversion to create an interactive experience where users can provide speech input, receive answers based on that input, and explore movie-related content through Google Drive search links.
+
+
+To create an installation script for the requirements of your Python code, you can follow these steps:
+
+```
+pip install -r requirements.txt
+```
+
+This command will install all the listed dependencies from the requirements.txt file automatically.
+
