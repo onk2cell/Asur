@@ -1,0 +1,5 @@
+undetected_chromedriver
+bardapi
+speech_recognition
+selenium
+pyttsx3
