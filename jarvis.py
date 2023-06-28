@@ -7,7 +7,8 @@ import re
 import pyttsx3
 import os
 
-os.environ["_BARD_API_KEY"] = "Xwj7LOMOK9nE2xBv72qYfQpfwhCVn4s1tCHLyIHWNoRLNjS_eHMutuEpGHfFj1bc43s3-A."
+#https://youtu.be/kT8Q7aIlgy0 ref this youtube video 
+os.environ["_BARD_API_KEY"] = "here enter your brad key"
 
 options = Options()
 options.add_argument('--profile-directory=Profile 5')
