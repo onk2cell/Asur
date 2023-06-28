@@ -48,7 +48,7 @@ This command will install all the dependencies listed in the `requirements.txt` 
 
 11. You can now run the code using the following command:
    ```
-   python your_code_file.py
+   python jarvis.py
    ```
 
 Replace `your_code_file.py` with the name of the Python file containing your code.
